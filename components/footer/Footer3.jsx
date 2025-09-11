@@ -224,7 +224,7 @@ const Footer3 = () => {
               <div className="content">
                 <span>Call Any Time</span>
                 <h6>
-                  <a href="tel:+1(813)578-1111">+1(813)578-1111</a>
+                  <a href="tel:+1(813)817-6789">+1(813)817-6789</a>
                 </h6>
               </div>
             </div>
@@ -246,7 +246,7 @@ const Footer3 = () => {
                 <span>Address</span>
                 <h6>
                   <a href="https://www.google.com/maps/place/Egens+Lab/@23.8340712,90.3631117,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c14c8682a473:0xa6c74743d52adb88!8m2!3d23.8340663!4d90.3656866!16s%2Fg%2F11rs9vlwsk?entry=ttu">
-                    Dhaka, Bangladesh
+                  12108 N 56th st Suite 2, Temple Terrace, FL 33617
                   </a>
                 </h6>
               </div>
