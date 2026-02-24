@@ -22,4 +22,4 @@ export async function GET(request: NextRequest) {
   return getServerSideSitemap(fields);
 }
 
-export const dynamic = 'force-dynamic'
+export const dynamic = 'force-dynamic';
